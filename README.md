@@ -40,21 +40,8 @@ Some key tasks explored in the notebook:
 - `pandas_text_data_handling_exercises.ipynb`  
   📒 A Jupyter Notebook with guided exercises and detailed solutions.
 
-- `sensor_log_data.csv`  
+- `sensor_data_pipe.txt`  
   📄 Simulated sensor log file with timestamps, numeric values, text statuses, and location codes.
-
----
-
-## 📌 Dataset Description
-
-Each row in `sensor_log_data.csv` includes:
-
-| Column       | Description                              |
-|--------------|------------------------------------------|
-| `Timestamp`  | Date and time of log entry               |
-| `Value`      | Numeric sensor measurement (may include strings) |
-| `Status`     | Log status: OK, Warning, Critical        |
-| `Location`   | Location code for the sensor/machine     |
 
 ---
 
